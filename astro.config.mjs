@@ -1,12 +1,13 @@
 // @ts-check
-import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
+import { defineConfig } from "astro/config";
 
 // https://astro.build/config
 export default defineConfig({
   integrations: [
     starlight({
       title: "Dev Foundry Docs",
+      customCss: ["./src/styles/globals.css"],
       social: [
         {
           icon: "github",

@@ -1,0 +1,54 @@
+/**
+ * Dev Foundry — smaller heading scale.
+ *
+ * Loaded via `head` in `astro.config.mjs` (inline `<style>`). After editing this
+ * file, restart `npm run dev` so changes apply — the config read is not hot-reloaded.
+ *
+ * Scoped to `.sl-markdown-content` so nav / UI headings are unchanged.
+ */
+
+/* Mobile-first */
+.sl-markdown-content h1 {
+  font-size: 1.3125rem !important;
+}
+.sl-markdown-content h2 {
+  font-size: 1.25rem !important;
+}
+.sl-markdown-content h3 {
+  font-size: 1.125rem !important;
+}
+.sl-markdown-content h4 {
+  font-size: 1rem !important;
+}
+.sl-markdown-content h5 {
+  font-size: 0.875rem !important;
+}
+.sl-markdown-content h6 {
+  font-size: 0.8125rem !important;
+}
+
+@media (min-width: 50em) {
+  .sl-markdown-content h1 {
+    font-size: 1.625rem !important;
+  }
+  .sl-markdown-content h2 {
+    font-size: 1.5rem !important;
+  }
+  .sl-markdown-content h3 {
+    font-size: 1.25rem !important;
+  }
+  .sl-markdown-content h4 {
+    font-size: 1.125rem !important;
+  }
+  .sl-markdown-content h5 {
+    font-size: 1rem !important;
+  }
+  .sl-markdown-content h6 {
+    font-size: 0.875rem !important;
+  }
+}
+
+/* Splash template: hero title */
+.hero h1 {
+  font-size: clamp(1.125rem, calc(0.25rem + 2.5vw), 1.625rem) !important;
+}
