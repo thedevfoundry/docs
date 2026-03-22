@@ -1,11 +1,24 @@
 ---
 title: Our Mission
-description: A reference page in my new Starlight docs site.
+description: Why Dev Foundry exists and what we do every week.
 ---
 
-Reference pages are ideal for outlining how things work in terse and clear terms.
-Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
+Dev Foundry exists to turn builders into founders by creating an environment centered on shipping, collaboration, and accountability.
 
-## Further reading
+Our mission is practical:
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+- Increase the number of people in Sacramento actively building products
+- Help members move from ideas to shipped outcomes
+- Make startup creation more accessible through community execution
+- Build a reliable place where progress is visible and consistent
+
+## What this looks like in practice
+
+- Weekly coworking where members work side by side
+- Monthly demo nights where people show what they built
+- Open discussions about launching, distribution, and growth
+- Ongoing collaboration across design, engineering, and business
+
+## Mission test
+
+If an activity does not help members build, ship, or make measurable progress, it is not mission-aligned.

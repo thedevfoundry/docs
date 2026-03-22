@@ -1,11 +1,25 @@
 ---
 title: Our Vision
-description: A reference page in my new Starlight docs site.
+description: The long-term outcome Dev Foundry is building toward.
 ---
 
-Reference pages are ideal for outlining how things work in terse and clear terms.
-Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
+Dev Foundry's vision is a Sacramento ecosystem where building is normal, founders emerge from real collaboration, and new companies launch from community momentum.
 
-## Further reading
+We want to become the most builder-focused community in the region by being:
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+- Execution-first, not talk-first
+- Transparent in how decisions are made and work gets done
+- Open to contributors who want to improve the system
+- Consistent enough that progress compounds over time
+
+## What success looks like
+
+- Members regularly shipping projects and product updates
+- Teams forming organically around shared goals
+- New startups and products launched through the community
+- People finding jobs, cofounders, and real opportunities
+- A reputation for doing meaningful work, not just hosting events
+
+## Operating principle
+
+We treat the community like a product: iterative, measurable, and always improving.

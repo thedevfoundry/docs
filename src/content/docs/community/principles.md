@@ -1,11 +1,34 @@
 ---
 title: Principles
-description: A reference page in my new Starlight docs site.
+description: Core behaviors that define how Dev Foundry works.
 ---
 
-Reference pages are ideal for outlining how things work in terse and clear terms.
-Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
+These principles are not slogans. They are standards for how we operate.
 
-## Further reading
+## 1) Build over talk
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+Conversations should produce output: code, docs, prototypes, experiments, or decisions.
+
+## 2) Ship fast, learn fast
+
+Progress comes from short build cycles, quick feedback, and iteration.
+
+## 3) Collaborate in public
+
+Share updates, blockers, and lessons openly so others can help and learn.
+
+## 4) Take ownership
+
+If you commit to something, follow through. If plans change, communicate early.
+
+## 5) Support other builders
+
+Give useful feedback, make introductions, and help others maintain momentum.
+
+## 6) Stay practical
+
+Prefer clear execution over abstract debate. Keep discussions grounded in outcomes.
+
+## 7) Improve the system
+
+If something in Dev Foundry is unclear or broken, propose a better version and help implement it.

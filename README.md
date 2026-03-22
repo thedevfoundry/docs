@@ -1,49 +1,47 @@
-# Starlight Starter Kit: Basics
+# Dev Foundry Docs
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+Dev Foundry is a Sacramento-based builder community focused on one thing: helping people ship real products.
 
+This repository contains the public documentation for how the community operates, how people contribute, and how we keep momentum.
+
+## What Dev Foundry Is
+
+- A community for developers, builders, and aspiring founders
+- A place to collaborate, ship, and learn through execution
+- A network where teams form organically around real projects
+- An open operating system for events, participation, and growth
+
+## What This Repository Is For
+
+- Documenting Dev Foundry's mission, vision, and core principles
+- Defining how Discord, GitHub, and events work together
+- Publishing contribution guidelines and community expectations
+- Sharing a simple, evolving roadmap for community growth
+
+## Local Development
+
+From the repo root:
+
+```bash
+npm install
+npm run dev
 ```
-npm create astro@latest -- --template starlight
+
+Then open `http://localhost:4321`.
+
+## Build and Preview
+
+```bash
+npm run build
+npm run preview
 ```
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Contributing
 
-## 🚀 Project Structure
+Contributions are welcome from community members.
 
-Inside of your Astro + Starlight project, you'll see the following folders and files:
+- Improve clarity, structure, and examples in docs
+- Propose updates through pull requests
+- Keep language direct, practical, and action-oriented
 
-```
-.
-├── public/
-├── src/
-│   ├── assets/
-│   ├── content/
-│   │   └── docs/
-│   └── content.config.ts
-├── astro.config.mjs
-├── package.json
-└── tsconfig.json
-```
-
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
-
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
-
-Static assets, like favicons, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+See the docs site page for detailed contribution guidelines.
